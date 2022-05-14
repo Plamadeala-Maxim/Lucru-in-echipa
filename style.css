@@ -1,6 +1,7 @@
 body{
-    background-image: url("https://cdn.discordapp.com/attachments/974977139768172585/975001311550537728/woman-natural-beauty-makeup-portrait-orchid-flower-beautiful-girl-skin-care-treatment-woman-natural-beauty-makeup-1402887251.jpg%22");
+    background-image: url("https://cdn.discordapp.com/attachments/974977139768172585/975001311550537728/woman-natural-beauty-makeup-portrait-orchid-flower-beautiful-girl-skin-care-treatment-woman-natural-beauty-makeup-1402887251.jpg");
     background-repeat: no-repeat;
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     /*/margin: 70px 0px;/*/
@@ -11,20 +12,23 @@ body{
     /*/margin: 70px 0px;/*/
 
 >>>>>>> 0445f52478f2cdc64da4f45f3f7ec9972b5d3a87
+=======
+>>>>>>> a1724ccc9d3c127aa43087640c3ef9885a66d81c
     margin-left:70px;
     margin-right:70px;
     background-size: 1355px;
-    }
+}
 
-    li{
+li{
     display: inline-block;
-    }
+}
 
-    ul{
+ul{
     display: flex;
     justify-content: space-between;
     flex-flow: row wrap;
     float: right;
+<<<<<<< HEAD
     }
 
 <<<<<<< HEAD
@@ -40,6 +44,9 @@ body{
 <<<<<<< HEAD
 =======
 =======
+=======
+}
+>>>>>>> a1724ccc9d3c127aa43087640c3ef9885a66d81c
 
 >>>>>>> 0445f52478f2cdc64da4f45f3f7ec9972b5d3a87
 a{
@@ -48,16 +55,20 @@ a{
 }
 #titlu{
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 44fac22adb27dbd0419e6d50558736d0b53f5a7a
 =======
 
 >>>>>>> 0445f52478f2cdc64da4f45f3f7ec9972b5d3a87
+=======
+>>>>>>> a1724ccc9d3c127aa43087640c3ef9885a66d81c
     display: flex;
     flex-direction: row;
     justify-content: left;
     margin-left: -50px;
     margin-right: 800px;
     font-size: 25px;
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     }
@@ -73,6 +84,11 @@ a{
 >>>>>>> 0445f52478f2cdc64da4f45f3f7ec9972b5d3a87
 
     .informaiton{
+=======
+}
+
+.informaiton{
+>>>>>>> a1724ccc9d3c127aa43087640c3ef9885a66d81c
     display: flex;
     flex-direction: column;
     float:right;
@@ -82,6 +98,7 @@ a{
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> 0445f52478f2cdc64da4f45f3f7ec9972b5d3a87
     /justify-content: space-around;/
 
@@ -102,12 +119,18 @@ a{
 =======
 
 >>>>>>> 0445f52478f2cdc64da4f45f3f7ec9972b5d3a87
+=======
+}
+
+.cotainer>img{
+>>>>>>> a1724ccc9d3c127aa43087640c3ef9885a66d81c
     display: flex;
     justify-content: right;
     flex-flow: row;
     width:200px;
     border:2px solid black;
     border-radius: 20px;
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -140,6 +163,8 @@ a{
 =======
 
 >>>>>>> 0445f52478f2cdc64da4f45f3f7ec9972b5d3a87
+=======
+>>>>>>> a1724ccc9d3c127aa43087640c3ef9885a66d81c
 }
 .cotainer{
     display: flex;
@@ -162,5 +187,8 @@ p{
 >>>>>>> 44fac22adb27dbd0419e6d50558736d0b53f5a7a
 =======
 
+<<<<<<< HEAD
 >>>>>>> 0445f52478f2cdc64da4f45f3f7ec9972b5d3a87
 
+=======
+>>>>>>> a1724ccc9d3c127aa43087640c3ef9885a66d81c
