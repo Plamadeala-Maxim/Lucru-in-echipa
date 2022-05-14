@@ -1,7 +1,6 @@
 body{
     background-image: url("https://cdn.discordapp.com/attachments/974977139768172585/975001311550537728/woman-natural-beauty-makeup-portrait-orchid-flower-beautiful-girl-skin-care-treatment-woman-natural-beauty-makeup-1402887251.jpg");
     background-repeat: no-repeat;
-    /*margin: 70px 0px;*/
     margin-left:70px;
     margin-right:70px;
     background-size: 1355px;
@@ -37,7 +36,6 @@ a{
     float:right;
     width:500px;
     height:500px;
-    /*justify-content: space-around;*/
 
 }
 
@@ -55,11 +53,6 @@ a{
 }
 
 .menu{
-    /*width:1250px;*/
-    /*height: 75px;*/
-    /*background-color: red;*/
-    /*margin-top: -72px;*/
-    /*margin-left:-221px;*/
 }
 
 h1{
