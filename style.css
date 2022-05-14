@@ -87,10 +87,13 @@ p{
     display: flex;
     flex-flow: column;
     border: 20px;
+
 }
 
 .current{
     opacity:1;
 }
 
+
+}
 
