@@ -1,19 +1,6 @@
 body{
     background-image: url("https://cdn.discordapp.com/attachments/974977139768172585/975001311550537728/woman-natural-beauty-makeup-portrait-orchid-flower-beautiful-girl-skin-care-treatment-woman-natural-beauty-makeup-1402887251.jpg");
     background-repeat: no-repeat;
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-    /*/margin: 70px 0px;/*/
-=======
->>>>>>> 44fac22adb27dbd0419e6d50558736d0b53f5a7a
-=======
-
-    /*/margin: 70px 0px;/*/
-
->>>>>>> 0445f52478f2cdc64da4f45f3f7ec9972b5d3a87
-=======
->>>>>>> a1724ccc9d3c127aa43087640c3ef9885a66d81c
     margin-left:70px;
     margin-right:70px;
     background-size: 1355px;
@@ -28,143 +15,37 @@ ul{
     justify-content: space-between;
     flex-flow: row wrap;
     float: right;
-<<<<<<< HEAD
-    }
-
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-
->>>>>>> 0445f52478f2cdc64da4f45f3f7ec9972b5d3a87
-    a{
-    margin-right:30px;
-    font-size:17px;
-    }
-    #titlu{
-<<<<<<< HEAD
-=======
-=======
-=======
 }
->>>>>>> a1724ccc9d3c127aa43087640c3ef9885a66d81c
 
->>>>>>> 0445f52478f2cdc64da4f45f3f7ec9972b5d3a87
 a{
     margin-right:30px;
     font-size:17px;
 }
 #titlu{
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> 44fac22adb27dbd0419e6d50558736d0b53f5a7a
-=======
-
->>>>>>> 0445f52478f2cdc64da4f45f3f7ec9972b5d3a87
-=======
->>>>>>> a1724ccc9d3c127aa43087640c3ef9885a66d81c
     display: flex;
     flex-direction: row;
     justify-content: left;
     margin-left: -50px;
     margin-right: 800px;
     font-size: 25px;
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-    }
-=======
-}
->>>>>>> 44fac22adb27dbd0419e6d50558736d0b53f5a7a
-=======
-
-    }
-
-}
-
->>>>>>> 0445f52478f2cdc64da4f45f3f7ec9972b5d3a87
-
-    .informaiton{
-=======
 }
 
 .informaiton{
->>>>>>> a1724ccc9d3c127aa43087640c3ef9885a66d81c
     display: flex;
     flex-direction: column;
     float:right;
     width:500px;
     height:500px;
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-
-<<<<<<< HEAD
->>>>>>> 0445f52478f2cdc64da4f45f3f7ec9972b5d3a87
-    /justify-content: space-around;/
-
-    }
-
-    .cotainer>img{
-<<<<<<< HEAD
-=======
-=======
-
->>>>>>> 0445f52478f2cdc64da4f45f3f7ec9972b5d3a87
 
 }
 
 .cotainer>img{
-<<<<<<< HEAD
->>>>>>> 44fac22adb27dbd0419e6d50558736d0b53f5a7a
-=======
-
->>>>>>> 0445f52478f2cdc64da4f45f3f7ec9972b5d3a87
-=======
-}
-
-.cotainer>img{
->>>>>>> a1724ccc9d3c127aa43087640c3ef9885a66d81c
     display: flex;
     justify-content: right;
     flex-flow: row;
     width:200px;
     border:2px solid black;
     border-radius: 20px;
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-
->>>>>>> 0445f52478f2cdc64da4f45f3f7ec9972b5d3a87
-    }
-    .cotainer{
-    display: flex;
-    justify-content: space-around;
-    }
-
-    .menu{
-    /width:1250px;/
-    /height: 75px;/
-    /background-color: red;/
-    /margin-top: -72px;/
-    /margin-left:-221px;/
-    }
-
-    h1{
-    font-size: 40px;
-    }
-    p{
-    display: flex;
-    flex-flow: column;
-    border: 20px;
-    }
-<<<<<<< HEAD
-=======
-=======
-
->>>>>>> 0445f52478f2cdc64da4f45f3f7ec9972b5d3a87
-=======
->>>>>>> a1724ccc9d3c127aa43087640c3ef9885a66d81c
 }
 .cotainer{
     display: flex;
@@ -182,13 +63,3 @@ p{
     flex-flow: column;
     border: 20px;
 }
-
-<<<<<<< HEAD
->>>>>>> 44fac22adb27dbd0419e6d50558736d0b53f5a7a
-=======
-
-<<<<<<< HEAD
->>>>>>> 0445f52478f2cdc64da4f45f3f7ec9972b5d3a87
-
-=======
->>>>>>> a1724ccc9d3c127aa43087640c3ef9885a66d81c
