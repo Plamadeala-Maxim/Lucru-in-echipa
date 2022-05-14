@@ -7,16 +7,18 @@ li{
     display: inline-block;
 }
 
-a{
+ul{
     display: flex;
-    justify-content: right;
     flex-flow: row wrap;
     position: relative;
+    justify-content: space-around
 }
 #titlu{
-display: flex;
+    display: flex;
     flex-direction: row;
     justify-content: left;
+    margin-left: -50px;
+    margin-right: 600px;
 }
 
 .informaiton{
