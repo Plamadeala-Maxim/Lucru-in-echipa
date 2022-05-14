@@ -2,9 +2,15 @@ body{
     background-image: url("https://cdn.discordapp.com/attachments/974977139768172585/975001311550537728/woman-natural-beauty-makeup-portrait-orchid-flower-beautiful-girl-skin-care-treatment-woman-natural-beauty-makeup-1402887251.jpg%22");
     background-repeat: no-repeat;
 <<<<<<< HEAD
+<<<<<<< HEAD
     /*/margin: 70px 0px;/*/
 =======
 >>>>>>> 44fac22adb27dbd0419e6d50558736d0b53f5a7a
+=======
+
+    /*/margin: 70px 0px;/*/
+
+>>>>>>> 0445f52478f2cdc64da4f45f3f7ec9972b5d3a87
     margin-left:70px;
     margin-right:70px;
     background-size: 1355px;
@@ -22,18 +28,30 @@ body{
     }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+
+>>>>>>> 0445f52478f2cdc64da4f45f3f7ec9972b5d3a87
     a{
     margin-right:30px;
     font-size:17px;
     }
     #titlu{
+<<<<<<< HEAD
 =======
+=======
+
+>>>>>>> 0445f52478f2cdc64da4f45f3f7ec9972b5d3a87
 a{
     margin-right:30px;
     font-size:17px;
 }
 #titlu{
+<<<<<<< HEAD
 >>>>>>> 44fac22adb27dbd0419e6d50558736d0b53f5a7a
+=======
+
+>>>>>>> 0445f52478f2cdc64da4f45f3f7ec9972b5d3a87
     display: flex;
     flex-direction: row;
     justify-content: left;
@@ -41,10 +59,18 @@ a{
     margin-right: 800px;
     font-size: 25px;
 <<<<<<< HEAD
+<<<<<<< HEAD
     }
 =======
 }
 >>>>>>> 44fac22adb27dbd0419e6d50558736d0b53f5a7a
+=======
+
+    }
+
+}
+
+>>>>>>> 0445f52478f2cdc64da4f45f3f7ec9972b5d3a87
 
     .informaiton{
     display: flex;
@@ -53,17 +79,29 @@ a{
     width:500px;
     height:500px;
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+
+>>>>>>> 0445f52478f2cdc64da4f45f3f7ec9972b5d3a87
     /justify-content: space-around;/
 
     }
 
     .cotainer>img{
+<<<<<<< HEAD
 =======
+=======
+
+>>>>>>> 0445f52478f2cdc64da4f45f3f7ec9972b5d3a87
 
 }
 
 .cotainer>img{
+<<<<<<< HEAD
 >>>>>>> 44fac22adb27dbd0419e6d50558736d0b53f5a7a
+=======
+
+>>>>>>> 0445f52478f2cdc64da4f45f3f7ec9972b5d3a87
     display: flex;
     justify-content: right;
     flex-flow: row;
@@ -71,6 +109,10 @@ a{
     border:2px solid black;
     border-radius: 20px;
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+
+>>>>>>> 0445f52478f2cdc64da4f45f3f7ec9972b5d3a87
     }
     .cotainer{
     display: flex;
@@ -93,7 +135,11 @@ a{
     flex-flow: column;
     border: 20px;
     }
+<<<<<<< HEAD
 =======
+=======
+
+>>>>>>> 0445f52478f2cdc64da4f45f3f7ec9972b5d3a87
 }
 .cotainer{
     display: flex;
@@ -112,5 +158,9 @@ p{
     border: 20px;
 }
 
+<<<<<<< HEAD
 >>>>>>> 44fac22adb27dbd0419e6d50558736d0b53f5a7a
+=======
+
+>>>>>>> 0445f52478f2cdc64da4f45f3f7ec9972b5d3a87
 
