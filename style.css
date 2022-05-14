@@ -1,9 +1,8 @@
 body{
-    background-image: url(woman-natural-beauty-makeup-portrait-orchid-flower-beautiful-girl-skin-care-treatment-woman-natural-beauty-makeup-1402887251.jpg);
-    background-size: 2000px;
-background-repeat: no-repeat;
-    margin: 50px;
-
+    background-image: url("https://cdn.discordapp.com/attachments/974977139768172585/975001311550537728/woman-natural-beauty-makeup-portrait-orchid-flower-beautiful-girl-skin-care-treatment-woman-natural-beauty-makeup-1402887251.jpg");
+    background-repeat: no-repeat;
+    margin: 70px;
+    background-size: 1355px;
 }
 
 li{
@@ -12,25 +11,20 @@ li{
 
 ul{
     display: flex;
-    flex-flow: row wrap;
-    position: relative;
     justify-content: space-between;
     flex-flow: row wrap;
-  float: right;
+    float: right;
 }
 
 a{
     margin-right:40px;
->>>>>>> 5aa0b9e88337e34796a5ea409c3f1cd39ce98428
 }
 #titlu{
     display: flex;
     flex-direction: row;
     justify-content: left;
     margin-left: -50px;
-    margin-right: 600px;
-    /*margin-right: 800px;*/
-
+    margin-right: 800px;
 }
 
 .informaiton{
