@@ -1,21 +1,34 @@
 body{
     background-image: url("https://cdn.create.vista.com/api/media/small/189898548/stock-photo-cropped-shot-half-face-attractive");
+background-repeat: no-repeat;
+}
 
+li{
+    display: inline-block;
 }
 
 a{
     display: flex;
-    flex-direction: row;
     justify-content: right;
+    flex-flow: row wrap;
+    position: relative;
 }
-.titlu{
+#titlu{
 display: flex;
     flex-direction: row;
-    justify-content: right;
+    justify-content: left;
 }
 
 .informaiton{
     display: flex;
     flex-direction: column;
-
+    justify-content: right;
+    float:right;
 }
+
+.cotainer{
+    display: flex;
+    justify-content: right;
+}
+
+
