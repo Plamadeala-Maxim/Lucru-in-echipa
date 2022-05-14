@@ -1,7 +1,10 @@
 body{
     background-image: url("https://cdn.discordapp.com/attachments/974977139768172585/975001311550537728/woman-natural-beauty-makeup-portrait-orchid-flower-beautiful-girl-skin-care-treatment-woman-natural-beauty-makeup-1402887251.jpg%22");
     background-repeat: no-repeat;
+<<<<<<< HEAD
     /*/margin: 70px 0px;/*/
+=======
+>>>>>>> 44fac22adb27dbd0419e6d50558736d0b53f5a7a
     margin-left:70px;
     margin-right:70px;
     background-size: 1355px;
@@ -18,18 +21,30 @@ body{
     float: right;
     }
 
+<<<<<<< HEAD
     a{
     margin-right:30px;
     font-size:17px;
     }
     #titlu{
+=======
+a{
+    margin-right:30px;
+    font-size:17px;
+}
+#titlu{
+>>>>>>> 44fac22adb27dbd0419e6d50558736d0b53f5a7a
     display: flex;
     flex-direction: row;
     justify-content: left;
     margin-left: -50px;
     margin-right: 800px;
     font-size: 25px;
+<<<<<<< HEAD
     }
+=======
+}
+>>>>>>> 44fac22adb27dbd0419e6d50558736d0b53f5a7a
 
     .informaiton{
     display: flex;
@@ -37,17 +52,25 @@ body{
     float:right;
     width:500px;
     height:500px;
+<<<<<<< HEAD
     /justify-content: space-around;/
 
     }
 
     .cotainer>img{
+=======
+
+}
+
+.cotainer>img{
+>>>>>>> 44fac22adb27dbd0419e6d50558736d0b53f5a7a
     display: flex;
     justify-content: right;
     flex-flow: row;
     width:200px;
     border:2px solid black;
     border-radius: 20px;
+<<<<<<< HEAD
     }
     .cotainer{
     display: flex;
@@ -70,5 +93,24 @@ body{
     flex-flow: column;
     border: 20px;
     }
+=======
+}
+.cotainer{
+    display: flex;
+    justify-content: space-around;
+}
 
+.menu{
+}
+
+h1{
+    font-size: 40px;
+}
+p{
+    display: flex;
+    flex-flow: column;
+    border: 20px;
+}
+
+>>>>>>> 44fac22adb27dbd0419e6d50558736d0b53f5a7a
 
