@@ -6,6 +6,30 @@ body{
     background-size: 1355px;
 }
 
+.cuprindere{
+    display: flex;
+    justify-content: right;
+    width:max-content;
+    float: right;
+}
+.primul {
+    display: flex;
+    background-color: cornflowerblue;
+    width:300px;
+    height: 500px;
+    flex-flow: row;
+    justify-content: center;
+}
+
+.parinte{
+    flex-flow: row;
+}
+
+.card{
+    display: flex;
+    flex-flow: column;
+    opacity: 0;
+}
 li{
     display: inline-block;
 }
@@ -36,6 +60,7 @@ a{
     float:right;
     width:500px;
     height:500px;
+    justify-content: right;
 
 }
 
@@ -62,6 +87,10 @@ p{
     display: flex;
     flex-flow: column;
     border: 20px;
+}
+
+.current{
+    opacity:1;
 }
 
 
