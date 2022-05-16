@@ -1,0 +1,122 @@
+
+/*NR1*/
+
+.slide-top{
+    height: 530px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-image: url("img-despre-noi/imgtop.png");
+}
+.slide-one{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: flex-start;
+    flex-direction: column;
+    padding: 50px;
+
+}
+.slide-two{
+    display: none;
+    justify-content: space-evenly;
+    align-items: flex-start;
+    flex-direction: column;
+    padding: 50px;
+
+}
+.next-btn, .previous-btn {
+    background-color: darkorange;
+}
+.btn-slide-next{
+    display: flex;
+    flex-direction: row;
+}
+.btn-slide-prev{
+    display: flex;
+    flex-direction: row;
+}
+
+button{
+    width: 92px;
+    height: 30px;
+    background-color: orange;
+    font-family: Tahoma;
+    border: 1px solid red;
+}
+
+/*NR2*/
+
+.about-us-one{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+}
+.about-us-two{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    padding-top: 50px;
+    padding-bottom: 60px;
+}
+
+.title-h2{
+    display: flex;
+    justify-content: center;
+    padding-top: 60px;
+    padding-bottom: 40px;
+}
+.icon{
+    width: 30px;
+    height: 30px;
+}
+
+/*NR-3*/
+
+.services-slide-one{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: black;
+}
+.services-slide-two{
+    display: none;
+    justify-content: space-around;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: black;
+}
+.title-h2-black-one{
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: whitesmoke;
+    background-color: black;
+}
+.title-h2-black-two{
+    display: none;
+    justify-content: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: whitesmoke;
+    background-color: black;
+}
+.card-text-footer, .card-title-footer{
+    color: whitesmoke;
+}
+b{
+    color: orangered;
+}
+.btn-footer-one{
+    display: flex;
+    justify-content:center;
+    background-color: black;
+    padding-bottom: 50px;
+}
+.btn-footer-two{
+    display: none;
+    justify-content:center;
+    background-color: black;
+    padding-bottom: 50px;
+}
