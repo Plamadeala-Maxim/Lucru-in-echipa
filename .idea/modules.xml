@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+
       <module fileurl="file://$PROJECT_DIR$/.idea/Lucru-in-echipa.iml" filepath="$PROJECT_DIR$/.idea/Lucru-in-echipa.iml" />
+
+      <module fileurl="file://$PROJECT_DIR$/.idea/lectia-26-JS.iml" filepath="$PROJECT_DIR$/.idea/lectia-26-JS.iml" />
+
     </modules>
   </component>
 </project>
